@@ -1,0 +1,21 @@
+type       |    value
+-----------------------
+value           value & pointer
+pointer         pointer
+
+
+From Bill Kennedy
+
+Receivers         Values
+----------------------------------------
+(t T)             T and *T
+(t *T)            *T
+
+
+
+In the example if you see 04_pointer_receiver_value_type, you will get error while running the program
+
+This is because, the area func of circle expects a pointer in the receiver
+where as we pass value of circle to the info()
+
+So this does not work, where as other 3 examples works

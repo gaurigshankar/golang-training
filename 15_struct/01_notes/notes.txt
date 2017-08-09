@@ -1,0 +1,19 @@
+GO is object Oriented
+
+1) Encapsulation
+  state ("fields")
+  behaviour ("methods")
+  exported / un-exported (visbible / not visible outside package)
+
+
+2) Reusaability
+  Inheritance
+
+3) Polymorphism
+   Interface
+
+4) overriding
+   promotion
+
+In GO you dont create Classes, you create a type
+and you dont instantiate, you create a value of a type

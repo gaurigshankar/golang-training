@@ -1,0 +1,14 @@
+concurrency vs parallelism
+
+concurrency :: independent process
+
+parallelism :: may be related process
+
+
+Every parallelism is concurrency but not every concurrency is parallelism
+
+
+“Concurrency is the composition of independently executing processes,
+while parallelism is the simultaneous execution of (possibly related) computations.
+Concurrency is about dealing with lots of things at once.
+ Parallelism is about doing lots of things at once.”
